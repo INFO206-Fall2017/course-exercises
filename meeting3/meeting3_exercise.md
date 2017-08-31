@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # Meeting 3 Exercise
 ## Info 206
 ## 31 August 2017
