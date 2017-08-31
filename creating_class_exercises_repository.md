@@ -14,22 +14,17 @@ First, create an empty repository in Github for your exercises, you can do this 
 
 * this is done through the add menu on the upper right of your Github page.
 
---
-
-* Put your repository in the INFO206-Fall2017 organization
-
 Name the repository "info206_exercises_[Lastname]". Where [Lastname] is a placeholder for your surname. e.g. info206_exercises_Keleher
 
---
 * Make the repository **private** with the radio button.
  
 # Important: Do not add a readme file you need an empty repository
 
 # Give the read access to Niall (NKeleher) and Eve (mevey)
 
-* In your new **private** repository, go to the settings tab, on the right and then select collaborators and teams on the left
+* In your new repository, go to the settings tab, on the right and then select collaborators and teams on the left
 
-* Give (only) Niall and Eve read access only (no need for write priviledges):
+* Give (only) Niall (NKeleher) and Eve (mevey) read access only (no need for write priviledges):
 
 ## Clone the assignments directory on your local machine
 
@@ -42,14 +37,14 @@ Open a command prompt and use it to navigate to your desktop or course working d
 ``` sh
 # clone the assignment repository onto your computer
 
-git clone https://github.com/INFO206_Fall2017/course_exercises.git
+git clone https://github.com/INFO206-Fall2017/course-exercises.git
 
-cd assignment-upstream-fall-2016
+cd course-exercises
 
-git remote add upstream https://github.com/INFO206_Fall2017/course_exercises.git
+git remote add upstream https://github.com/INFO206-Fall2017/course-exercises.git
 ```
 
-You can find the URL for YourNameREPO by navigating to the appropriate repository in your web browser, then clicking on the "Clone or download" button in the upper right corner.
+You can find the URL for your repository by navigating to the appropriate repository in your web browser, then clicking on the "Clone or download" button in the upper right corner.
 
 ``` sh
 # set the origin to your personal repository
