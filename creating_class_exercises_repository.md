@@ -25,7 +25,7 @@ Name the repository "info206_exercises_[Lastname]". Where [Lastname] is a placeh
  
 # Important: Do not add a readme file you need an empty repository
 
-# Give the read access to Niall (NKeleher) and Eve ()
+# Give the read access to Niall (NKeleher) and Eve (mevey)
 
 * In your new **private** repository, go to the settings tab, on the right and then select collaborators and teams on the left
 
